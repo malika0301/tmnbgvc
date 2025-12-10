@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.active{
+    color: red;
+}
+.logo{
+    color:dodgerblue;
+}
