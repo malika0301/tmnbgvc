@@ -9,13 +9,13 @@ const AboutPage = () => {
       <div >
         <h1 className='text-2xl font-bold pb-[30px] pt-[10px]'>Фото кортов</h1>
         <div className=''>
-          <img className='object-cover h-[500px] w-full' src='/public/img/7.jpg' alt="photo" />
+          <img className='object-cover h-[500px] w-full' src='/img/7.jpg' alt="photo" />
         </div>
       </div>
       <div>
           <h1 className='text-2xl font-bold pb-[30px] pt-[20px]'>О клубе</h1>
           <div className=''>
-            <img className='object-cover h-[500px] w-full' src='/public/img/8.jpg' alt="photo" />
+            <img className='object-cover h-[500px] w-full' src='/img/8.jpg' alt="photo" />
           </div>
       </div>
       </div>
